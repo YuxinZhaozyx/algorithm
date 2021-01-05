@@ -1,2 +1,1 @@
-# algorithm
-算法题解
+# ACM算法题解
